@@ -86,3 +86,11 @@ This command will remove the globally installed package. For a complete cleanup,
   * **Windows:** Delete the `.gemini` folder from your user directory (`C:\Users\YourUsername`).
 
 
+# Use Cases
+Here are the available use case files in this library:
+
+* workflow-automation.md: Automate file system navigation, analysis, summarization, and cleanup.
+* system-interaction-image-conversion.md: Identify, count, and perform batch conversions on image files.
+* system-interaction-pdf-organization.md: Organize files like PDF invoices based on their content.
+* mcp-slide-deck.md: (Advanced) Use an MCP server to generate a slide deck from your Git history.
+* mcp-web-app.md: (Advanced) Use an MCP server to create a live web app dashboard from GitHub issues.
