@@ -84,3 +84,5 @@ This command will remove the globally installed package. For a complete cleanup,
 
   * **macOS/Linux:** `rm -rf ~/.gemini`
   * **Windows:** Delete the `.gemini` folder from your user directory (`C:\Users\YourUsername`).
+
+
